@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/HeartBeat_V2.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>762</used>
+      <free>15622</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>263424</length>
+      <used>14472</used>
+      <free>248952</free>
+    </memory>
+  </executable>
+</project>

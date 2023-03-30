@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/FOTA_BL_TESTS.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>558</used>
+      <free>15826</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>98304</length>
+      <used>5943</used>
+      <free>92361</free>
+    </memory>
+  </executable>
+</project>
